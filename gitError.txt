@@ -1,0 +1,7 @@
+git remote add origin https://github.com/stdthsang/learning.git
+fatal: remote origin already exists
+
+
+解决办法：
+1、git remote rm origin
+2、git remote add origin https://github.com/stdthsang/learning.git
